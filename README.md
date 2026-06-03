@@ -1,5 +1,7 @@
 <div align="center">
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=affan675&labelColor=%23d9e3f0&countColor=%23263759&style=flat-square)
+
 # 👋 Hi, I'm Affan Adil
 
 **Future Full Stack Developer | AI Enthusiast | Problem Solver**
@@ -29,12 +31,17 @@ I'm a passionate developer with a love for **web development** and **artificial 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Tools & Platforms
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -43,6 +50,21 @@ I'm a passionate developer with a love for **web development** and **artificial 
 ![Stats](https://github-readme-stats.vercel.app/api?username=affan675&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=affan675)
+
+---
+
+## ⏳ Coding Activity
+
+<!-- Replace with your actual WakaTime chart URL once set up -->
+[![Affan's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=affan675&layout=compact)](https://wakatime.com/@affan675)
+
+---
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+*Working on some new articles! Stay tuned.*
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -114,12 +136,22 @@ I'm a passionate developer with a love for **web development** and **artificial 
 
 ---
 
+## 🎲 Daily Dev & Motivation
+
+> **Random Dev Joke**: <!-- JOKE_START -->Fetching a fresh joke...<!-- JOKE_END -->
+>
+> **Motivational Quote**: <!-- QUOTE_START -->Loading daily wisdom...<!-- QUOTE_END -->
+
+*Last dynamic update: <!-- DATE_START -->Loading...<!-- DATE_END -->*
+
+---
+
 ## 🌐 Let's Connect
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/affan675)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:affanadil119@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:affanadil119@gmail.com)
 
 </div>
 
