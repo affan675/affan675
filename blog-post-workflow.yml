@@ -1,16 +1,20 @@
-name: Latest blog post workflow
+name: Latest blog posts workflow
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '0 */6 * * *'   # Every 6 hours (rate limit friendly)
   workflow_dispatch:
 
 jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
+  update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: actions/checkout@v4
+      
+      - name: Update with blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/affan675" # REPLACE with your actual RSS feed (Medium, Hashnode, Dev.to)
+          feed_list: "https://dev.to/feed/affan675"
           max_post_count: 5
+          comment_tag_name: "BLOG-POST-LIST"
+          # If you don't have posts, it will leave the existing text.
+          # To show a "no posts yet" message, keep your README as is.

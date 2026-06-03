@@ -1,0 +1,72 @@
+name: Update Dynamic Content
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Daily at midnight UTC
+  workflow_dispatch:       # Allow manual trigger
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write      # Needed to push changes
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch Joke, Quote and Date
+        id: fetch
+        run: |
+          # Fetch a dad joke (plain text)
+          JOKE=$(curl -s -H "Accept: text/plain" https://icanhazdadjoke.com/ || echo "Why don't scientists trust atoms? Because they make up everything!")
+          
+          # Fetch a quote
+          QUOTE_DATA=$(curl -s https://zenquotes.io/api/random || echo '[{"q":"The only way to do great work is to love what you do.","a":"Steve Jobs"}]')
+          QUOTE=$(echo "$QUOTE_DATA" | jq -r '.[0].q // "Keep coding!"')
+          AUTHOR=$(echo "$QUOTE_DATA" | jq -r '.[0].a // "Unknown"')
+          FULL_QUOTE="$QUOTE — $AUTHOR"
+          
+          # Date in UTC
+          DATE=$(date -u +"%Y-%m-%d %H:%M UTC")
+          
+          # Escape for safe replacement in later steps
+          echo "JOKE<<EOF" >> $GITHUB_OUTPUT
+          echo "$JOKE" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+          
+          echo "QUOTE<<EOF" >> $GITHUB_OUTPUT
+          echo "$FULL_QUOTE" >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+          
+          echo "DATE=$DATE" >> $GITHUB_OUTPUT
+
+      - name: Update README with dynamic content
+        uses: jacobtomlinson/gha-find-replace@v3
+        with:
+          find: "<!-- JOKE_START -->.*<!-- JOKE_END -->"
+          replace: "<!-- JOKE_START -->${{ steps.fetch.outputs.JOKE }}<!-- JOKE_END -->"
+          include: "README.md"
+          regex: true
+
+      - name: Update quote
+        uses: jacobtomlinson/gha-find-replace@v3
+        with:
+          find: "<!-- QUOTE_START -->.*<!-- QUOTE_END -->"
+          replace: "<!-- QUOTE_START -->${{ steps.fetch.outputs.QUOTE }}<!-- QUOTE_END -->"
+          include: "README.md"
+          regex: true
+
+      - name: Update date
+        uses: jacobtomlinson/gha-find-replace@v3
+        with:
+          find: "<!-- DATE_START -->.*<!-- DATE_END -->"
+          replace: "<!-- DATE_START -->${{ steps.fetch.outputs.DATE }}<!-- DATE_END -->"
+          include: "README.md"
+          regex: true
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "docs: update daily joke/quote/date [skip ci]"
+          git push
