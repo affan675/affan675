@@ -47,16 +47,17 @@ I'm a passionate developer with a love for **web development** and **artificial 
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=affan675&show_icons=true&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=affan675&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=affan675&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=affan675&layout=compact&theme=dark&hide_border=true&cache_seconds=1800)
 
 ---
 
-## ⏳ Coding Activity
+## ⏳ Coding Activity (Last 7 days)
 
-<!-- Replace with your actual WakaTime chart URL once set up -->
-[![Affan's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=affan675&layout=compact&theme=dark&hide_border=true)](https://wakatime.com/@affan675)
+<!--START_SECTION:waka-->
+*Stats will appear here once the workflow runs.*
+<!--END_SECTION:waka-->
 
 ---
 
@@ -130,7 +131,7 @@ I'm a passionate developer with a love for **web development** and **artificial 
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=affan675&theme=dark&hide_border=true&background=0d1117)](https://github.com/affan675)
+[![GitHub Streak](https://streak-stats.demolab.com?user=affan675&theme=dark&hide_border=true&background=0d1117&cache_seconds=1800)](https://github.com/affan675)
 
 </div>
 
