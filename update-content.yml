@@ -42,7 +42,7 @@ jobs:
       - name: Update README with dynamic content
         uses: jacobtomlinson/gha-find-replace@v3
         with:
-          find: "<!-- JOKE_START -->[\\s\\S]*<!-- JOKE_END -->"
+          find: "<!-- JOKE_START -->[\\s\\S]*?<!-- JOKE_END -->"
           replace: "<!-- JOKE_START -->${{ steps.fetch.outputs.JOKE }}<!-- JOKE_END -->"
           include: "README.md"
           regex: true
@@ -50,7 +50,7 @@ jobs:
       - name: Update quote
         uses: jacobtomlinson/gha-find-replace@v3
         with:
-          find: "<!-- QUOTE_START -->[\\s\\S]*<!-- QUOTE_END -->"
+          find: "<!-- QUOTE_START -->[\\s\\S]*?<!-- QUOTE_END -->"
           replace: "<!-- QUOTE_START -->${{ steps.fetch.outputs.QUOTE }}<!-- QUOTE_END -->"
           include: "README.md"
           regex: true
@@ -58,8 +58,16 @@ jobs:
       - name: Update date
         uses: jacobtomlinson/gha-find-replace@v3
         with:
-          find: "<!-- DATE_START -->[\\s\\S]*<!-- DATE_END -->"
+          find: "<!-- DATE_START -->[\\s\\S]*?<!-- DATE_END -->"
           replace: "<!-- DATE_START -->${{ steps.fetch.outputs.DATE }}<!-- DATE_END -->"
+          include: "README.md"
+          regex: true
+          
+      - name: Update footer date
+        uses: jacobtomlinson/gha-find-replace@v3
+        with:
+          find: "<!-- FOOTER_DATE_START -->[\\s\\S]*?<!-- FOOTER_DATE_END -->"
+          replace: "<!-- FOOTER_DATE_START -->${{ steps.fetch.outputs.DATE }}<!-- FOOTER_DATE_END -->"
           include: "README.md"
           regex: true
 
