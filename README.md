@@ -47,16 +47,16 @@ I'm a passionate developer with a love for **web development** and **artificial 
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=affan675&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=affan675&show_icons=true&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=affan675)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=affan675&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## ⏳ Coding Activity
 
 <!-- Replace with your actual WakaTime chart URL once set up -->
-[![Affan's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=affan675&layout=compact)](https://wakatime.com/@affan675)
+[![Affan's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=affan675&layout=compact&theme=dark&hide_border=true)](https://wakatime.com/@affan675)
 
 ---
 
@@ -171,6 +171,6 @@ I'm a passionate developer with a love for **web development** and **artificial 
 
 ---
 
-*Last updated: May 2026*
+*Last updated: <!-- DATE_START -->Loading...<!-- DATE_END -->*
 
 </div>
