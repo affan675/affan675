@@ -130,7 +130,7 @@ I'm a passionate developer with a love for **web development** and **artificial 
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=affan675&theme=dark&background=0d1117&ring=58a6ff&fire=ff7b54&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9d1d9)
+[![GitHub Streak](https://streak-stats.demolab.com?user=affan675&theme=dark&hide_border=true&background=0d1117)](https://github.com/affan675)
 
 </div>
 
