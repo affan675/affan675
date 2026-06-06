@@ -55,15 +55,17 @@ I'm a passionate developer with a love for **web development** and **artificial 
 ## ⏳ Coding Activity (Last 7 days)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2017%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-85.70%20thousand%20lines%20of%20code-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-86.18%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 58.4 kB Used in GitHub's Storage 
+> 📦 58.7 kB Used in GitHub's Storage 
  > 
-> 🏆 89 Contributions in the Year 2026
+> 🏆 90 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -71,6 +73,44 @@ I'm a passionate developer with a love for **web development** and **artificial 
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                42 commits          ███████████░░░░░░░░░░░░░░   44.68 % 
+🌆 Daytime                52 commits          ██████████████░░░░░░░░░░░   55.32 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Tuesday                  26 commits          ███████░░░░░░░░░░░░░░░░░░   27.66 % 
+Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Thursday                 11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Friday                   18 commits          █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Saturday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Sunday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+YAML                     33 mins             ████████████░░░░░░░░░░░░░   47.41 % 
+Markdown                 32 mins             ███████████░░░░░░░░░░░░░░   45.86 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -82,7 +122,7 @@ CSS                      7 repos             ██████░░░░░�
 
 
 
- Last Updated on 05/06/2026 20:28:31 UTC
+ Last Updated on 06/06/2026 19:54:49 UTC
 <!--END_SECTION:waka-->
 
 ---
