@@ -51,7 +51,7 @@ I'm a passionate developer with a love for **web development** and **artificial 
 ## ⏳ Coding Activity (Last 7 days)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2013%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue?style=flat)
 
@@ -61,7 +61,7 @@ I'm a passionate developer with a love for **web development** and **artificial 
 
 > 📦 58.7 kB Used in GitHub's Storage 
  > 
-> 🏆 90 Contributions in the Year 2026
+> 🏆 91 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -72,21 +72,21 @@ I'm a passionate developer with a love for **web development** and **artificial 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                42 commits          ███████████░░░░░░░░░░░░░░   44.68 % 
-🌆 Daytime                52 commits          ██████████████░░░░░░░░░░░   55.32 % 
+🌞 Morning                42 commits          ███████████░░░░░░░░░░░░░░   44.21 % 
+🌆 Daytime                53 commits          ██████████████░░░░░░░░░░░   55.79 % 
 🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Tuesday                  26 commits          ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
-Thursday                 11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Friday                   18 commits          █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
-Saturday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Sunday                   8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Monday                   11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Tuesday                  26 commits          ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+Wednesday                8 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 % 
+Thursday                 11 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Friday                   18 commits          █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Saturday                 12 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+Sunday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
 ```
 
 
@@ -94,17 +94,17 @@ Sunday                   8 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     33 mins             ████████████░░░░░░░░░░░░░   47.41 % 
-Markdown                 32 mins             ███████████░░░░░░░░░░░░░░   45.86 % 
-Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+CSS                      46 mins             ██████░░░░░░░░░░░░░░░░░░░   24.78 % 
+Markdown                 41 mins             ██████░░░░░░░░░░░░░░░░░░░   22.17 % 
+YAML                     33 mins             █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
+HTML                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
 
 🔥 Editors: 
-VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
+VS Code                  3 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 10 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -118,7 +118,7 @@ CSS                      7 repos             ██████░░░░░�
 
 
 
- Last Updated on 06/06/2026 19:54:49 UTC
+ Last Updated on 07/06/2026 19:56:39 UTC
 <!--END_SECTION:waka-->
 
 ---
