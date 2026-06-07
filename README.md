@@ -45,10 +45,6 @@ I'm a passionate developer with a love for **web development** and **artificial 
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=affan675&show_icons=true&theme=dark&hide_border=true&cache_seconds=0)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=affan675&layout=compact&theme=dark&hide_border=true&cache_seconds=0)
 
 ---
 
