@@ -51,7 +51,7 @@ I'm a passionate developer with a love for **web development** and **artificial 
 ## ⏳ Coding Activity (Last 7 days)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue?style=flat)
 
@@ -61,11 +61,11 @@ I'm a passionate developer with a love for **web development** and **artificial 
 
 > 📦 69.1 kB Used in GitHub's Storage 
  > 
-> 🏆 143 Contributions in the Year 2026
+> 🏆 144 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 40 Public Repositories 
+> 📜 41 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -94,17 +94,17 @@ Sunday                   9 commits           ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     4 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.35 % 
-Markdown                 2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
-CSS                      2 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-JavaScript               1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Python                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+HTML                     5 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   31.02 % 
+Markdown                 4 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   26.15 % 
+CSS                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+JavaScript               1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Python                   1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 14 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 15 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  13 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -119,7 +119,7 @@ Python                   5 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 11/06/2026 21:02:49 UTC
+ Last Updated on 12/06/2026 20:37:21 UTC
 <!--END_SECTION:waka-->
 
 ---
