@@ -51,42 +51,42 @@ I'm a passionate developer with a love for **web development** and **artificial 
 ## ⏳ Coding Activity (Last 7 days)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-150.49%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-168.77%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 91.8 kB Used in GitHub's Storage 
+> 📦 107.0 kB Used in GitHub's Storage 
  > 
-> 🏆 195 Contributions in the Year 2026
+> 🏆 209 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 62 Public Repositories 
+> 📜 69 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                94 commits          ███████████████░░░░░░░░░░   59.12 % 
-🌆 Daytime                65 commits          ██████████░░░░░░░░░░░░░░░   40.88 % 
+🌞 Morning                100 commits         ███████████████░░░░░░░░░░   60.24 % 
+🌆 Daytime                66 commits          ██████████░░░░░░░░░░░░░░░   39.76 % 
 🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Tuesday                  40 commits          ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-Wednesday                29 commits          █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Thursday                 24 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Friday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Saturday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Sunday                   10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Monday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.64 % 
+Tuesday                  40 commits          ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+Wednesday                29 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+Thursday                 24 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+Friday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Saturday                 20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Sunday                   17 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
 ```
 
 
@@ -94,33 +94,34 @@ Sunday                   10 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.74 % 
-JavaScript               2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-HTML                     2 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-Python                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-CSS                      1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+JavaScript               2 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+Markdown                 2 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+HTML                     2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
+Python                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+CSS                      1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 48 mins      █████████████████████████   99.95 % 
+Antigravity Desktop      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  11 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               19 repos            ████████░░░░░░░░░░░░░░░░░   32.76 % 
-HTML                     15 repos            ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
-CSS                      11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Python                   11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+JavaScript               22 repos            ████████░░░░░░░░░░░░░░░░░   33.85 % 
+HTML                     18 repos            ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+Python                   12 repos            █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
+CSS                      11 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 ```
 
 
 
 
- Last Updated on 20/06/2026 20:05:56 UTC
+ Last Updated on 21/06/2026 20:14:11 UTC
 <!--END_SECTION:waka-->
 
 ---
