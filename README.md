@@ -55,7 +55,7 @@ I'm a passionate developer with a love for **web development** and **artificial 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-259.05%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-261.63%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -72,21 +72,21 @@ I'm a passionate developer with a love for **web development** and **artificial 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                127 commits         █████████████░░░░░░░░░░░░   52.26 % 
-🌆 Daytime                116 commits         ████████████░░░░░░░░░░░░░   47.74 % 
+🌞 Morning                128 commits         █████████████░░░░░░░░░░░░   52.46 % 
+🌆 Daytime                116 commits         ████████████░░░░░░░░░░░░░   47.54 % 
 🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
-Tuesday                  76 commits          ████████░░░░░░░░░░░░░░░░░   31.28 % 
-Wednesday                35 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Thursday                 31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-Friday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Saturday                 25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Sunday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.05 % 
+Monday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Tuesday                  76 commits          ████████░░░░░░░░░░░░░░░░░   31.15 % 
+Wednesday                36 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Thursday                 31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Friday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Saturday                 25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Sunday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 ```
 
 
@@ -94,18 +94,18 @@ Sunday                   22 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 10 mins        █████████████░░░░░░░░░░░░   51.16 % 
-Markdown                 44 mins             ████████░░░░░░░░░░░░░░░░░   32.17 % 
-JavaScript               18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+HTML                     54 mins             ████████████░░░░░░░░░░░░░   48.53 % 
+Markdown                 37 mins             ████████░░░░░░░░░░░░░░░░░   33.67 % 
+JavaScript               16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       █████████████████████████   98.99 % 
-Antigravity Desktop      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+VS Code                  1 hr 50 mins        █████████████████████████   98.75 % 
+Antigravity Desktop      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Windows                  2 hrs 18 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +121,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/06/2026 20:32:13 UTC
+ Last Updated on 01/07/2026 20:27:20 UTC
 <!--END_SECTION:waka-->
 
 ---
