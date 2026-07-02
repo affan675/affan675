@@ -94,18 +94,16 @@ Sunday                   22 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     54 mins             ████████████░░░░░░░░░░░░░   48.53 % 
-Markdown                 37 mins             ████████░░░░░░░░░░░░░░░░░   33.67 % 
-JavaScript               16 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Markdown                 1 min               █████████████████████░░░░   85.38 % 
+CSS                      0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🔥 Editors: 
-VS Code                  1 hr 50 mins        █████████████████████████   98.75 % 
-Antigravity Desktop      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+Antigravity Desktop      1 min               █████████████████████░░░░   85.38 % 
+VS Code                  0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
 
 💻 Operating System: 
-Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -121,7 +119,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2026 20:27:20 UTC
+ Last Updated on 02/07/2026 20:05:28 UTC
 <!--END_SECTION:waka-->
 
 ---
