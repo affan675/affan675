@@ -51,7 +51,9 @@ I'm a passionate developer with a love for **web development** and **artificial 
 ## ⏳ Coding Activity (Last 7 days)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%204%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-261.63%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -67,6 +69,40 @@ I'm a passionate developer with a love for **web development** and **artificial 
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                128 commits         █████████████░░░░░░░░░░░░   52.46 % 
+🌆 Daytime                116 commits         ████████████░░░░░░░░░░░░░   47.54 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Tuesday                  76 commits          ████████░░░░░░░░░░░░░░░░░   31.15 % 
+Wednesday                36 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Thursday                 31 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+Friday                   32 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Saturday                 25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Sunday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -80,7 +116,7 @@ TypeScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:57:54 UTC
+ Last Updated on 26/07/2026 19:46:00 UTC
 <!--END_SECTION:waka-->
 
 ---
